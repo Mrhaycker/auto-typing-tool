@@ -1,0 +1,7 @@
+## Installation
+
+1. Install Python 3.10+  
+2. Install required module using pip:
+
+```bash
+pip install pyautogui
